@@ -36,7 +36,7 @@ function quicksort( arr ){
     return result;
 }
 
-var arr = [ 85, 24, 63, 45, 17, 31, 96, 50 ];
+var arr = [ 85, 24, 63, 45, 17, 31, 96, 50,68 ];
 
 console.log( arr );
 
